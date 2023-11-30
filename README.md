@@ -2,8 +2,7 @@
 Chelance Cyrah S. Reonal
 
 # Our Lady of Peñafrancia Church
-![Facade](https://1.bp.blogspot.com/-
-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade")
+![Facade](https://i.pinimg.com/564x/19/9e/6e/199e6ecbe1251a86ced25e5af1920943.jpg)
 
 *Our Lady of Peñafrancia Church Facade*
 
