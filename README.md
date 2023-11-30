@@ -8,7 +8,9 @@ Chelance Cyrah S. Reonal
 
 A bullet journal is a method of personal organization developed by digital product designer Ryder Carroll. The system organizes scheduling, reminders, to-do lists, brainstorming, allows you to easily track things in a highly visual and organized format, and other organizational tasks into a single notebook.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2vcnN4rPsM4?si=KIhOkItmcZMQt8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+How to do Bullet Journaling:
+
+https://www.youtube.com/shorts/v0bVuAiiL6s?feature=share
 
 *Clip: History of the Lady of Penafrancia*
 
