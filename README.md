@@ -4,14 +4,9 @@ Chelance Cyrah S. Reonal
 # Bullet Journaling or BUJO
 ![Facade](https://i.pinimg.com/564x/19/9e/6e/199e6ecbe1251a86ced25e5af1920943.jpg)
 
-*Our Lady of Peñafrancia Church Facade*
+*What is Bullet Journaling?*
 
-Our Lady of Peñafrancia Shrine is a Roman Catholic church in the Philippines, located in Naga City. It is
-under the jurisdiction of the Archdiocese of Caceres. The church was formerly the home of the image of
-Our Lady of Peñafrancia, before the Peñafrancia Basilica was constructed. Our Lady of Peñafrancia is one
-of East Asia's greatest sites of Christian pilgrimage.
-The parish church is also the location of the Plaza Miguel Robles de Covarrubias, where the Traslacion
-procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival.
+A bullet journal is a method of personal organization developed by digital product designer Ryder Carroll. The system organizes scheduling, reminders, to-do lists, brainstorming, allows you to easily track things in a highly visual and organized format, and other organizational tasks into a single notebook.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2vcnN4rPsM4?si=KIhOkItmcZMQt8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
