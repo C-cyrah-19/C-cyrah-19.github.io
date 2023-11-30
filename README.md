@@ -1,7 +1,7 @@
 # C-cyrah-19.github.io
 Chelance Cyrah S. Reonal
 
-# Bullet Journalin or BUJO
+# Bullet Journaling or BUJO
 ![Facade](https://i.pinimg.com/564x/19/9e/6e/199e6ecbe1251a86ced25e5af1920943.jpg)
 
 *Our Lady of Peñafrancia Church Facade*
