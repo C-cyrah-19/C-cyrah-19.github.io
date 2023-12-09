@@ -15,6 +15,6 @@ How to do Bullet Journaling:
 Different types of Bullet Journaling:
 
 - The Minimalist
-(https://blossomsandbulletjournals.files.wordpress.com/2017/07/img_4936.jpg)
+ (https://blossomsandbulletjournals.files.wordpress.com/2017/07/img_4936.jpg)
 - The Artsy Journal
-(https://i.pinimg.com/originals/6c/66/79/6c6679999a4058b54e624d561136eb79.jpg)
+ (https://i.pinimg.com/originals/6c/66/79/6c6679999a4058b54e624d561136eb79.jpg)
