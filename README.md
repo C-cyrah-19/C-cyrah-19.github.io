@@ -13,7 +13,8 @@ How to do Bullet Journaling:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hKbzcjJLRRo?si=fQklWlUGsUhBXA-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Different types of Bullet Journaling:
--The Minimalist
+
+- The Minimalist
 (https://blossomsandbulletjournals.files.wordpress.com/2017/07/img_4936.jpg)
 - The Artsy Journal
 (https://i.pinimg.com/originals/6c/66/79/6c6679999a4058b54e624d561136eb79.jpg)
