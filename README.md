@@ -19,3 +19,6 @@ Different types of Bullet Journaling:
  ![alt text](https://blossomsandbulletjournals.files.wordpress.com/2017/07/img_4936.jpg)
 - The Artsy Journal
  ![alt text](https://i.pinimg.com/originals/6c/66/79/6c6679999a4058b54e624d561136eb79.jpg)
+
+- Why is it useful?
+  It is usefule because bullet journals, also called BuJo for short, are a type of journal that serves as both a planner and a diary. As a planner, they track both short-term and long-term goals. As a diary, it can be used to quickly log your thoughts and feelings, making them a great form of self-care.
