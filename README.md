@@ -14,11 +14,22 @@ How to do Bullet Journaling:
 
 Different types of Bullet Journaling:
 
-- The Minimalist
+- **The Minimalist**
+
+  Minimalist shows calm, neat and simple
   
  ![alt text](https://blossomsandbulletjournals.files.wordpress.com/2017/07/img_4936.jpg)
-- The Artsy Journal
-![alt text](https://i.pinimg.com/originals/6c/66/79/6c6679999a4058b54e624d561136eb79.jpg)
+- **The Artsy Journal**
+
+  The Artsy is colorful and shows a lot of emotion
+  
+![alt text](https://i.pinimg.com/736x/ba/5f/9e/ba5f9e545b79c0c7feaead59df3db35a.jpg)
+
+-**The Tracker**
+
+How long did you sleep? Have you eaten? Did you exercise? How many glass of water did you drink?
+
+![alt text](https://i.pinimg.com/736x/43/1f/91/431f91468c072a2d854eb315d05046eb.jpg)
 
   *Why is it useful?*
   
